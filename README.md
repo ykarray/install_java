@@ -26,7 +26,7 @@ In this tutorial, we will install java and try our first program :
       $echo $JAVA_HOME
 # Write your first program 
       $ gedit Hello_World.java
-      ![image](java.png)
+      ![image](https://github.com/ykarray/install_java/blob/main/java.png)
 
 # Compile the program 
       $javac Hello_World.java
